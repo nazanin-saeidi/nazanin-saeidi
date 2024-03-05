@@ -1,5 +1,5 @@
 👋 Hi, I’m @nazanin-saeidi
-I’m interested in Web development, my main focus is JavaScript and it's Frameworks
+I’m interested in Software development.
 
 Feel free to contact me: nazaninsaeidiv@gmail.com
 
